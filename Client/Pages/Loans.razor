@@ -1,0 +1,24 @@
+﻿@page "/loans"
+@attribute [Authorize]
+
+<h3>Loans</h3>
+
+<div class="row">
+    @if (loans.Any())
+    {
+        @foreach (var loan in loans)
+        {
+            <div class="col-6 col-sm-12 col-md-6 col-lg-4 col-xl-4 mh-25 mb-4">
+                <div class ="card shadow-sm rounded">
+                    <div class="card-body">
+                        <h5 class="card-title"><b>@loan.LoanType</b></h5>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p>No loans found.</p>
+    }
+</div>

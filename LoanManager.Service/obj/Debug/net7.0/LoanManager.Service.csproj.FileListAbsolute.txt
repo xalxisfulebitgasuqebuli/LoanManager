@@ -1,0 +1,15 @@
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\bin\Debug\net7.0\LoanManager.Service.deps.json
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\bin\Debug\net7.0\LoanManager.Service.dll
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\bin\Debug\net7.0\LoanManager.Service.pdb
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\bin\Debug\net7.0\LoanManager.Domain.dll
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\bin\Debug\net7.0\LoanManager.Domain.pdb
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\obj\Debug\net7.0\LoanManager.Service.csproj.AssemblyReference.cache
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\obj\Debug\net7.0\LoanManager.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\obj\Debug\net7.0\LoanManager.Service.AssemblyInfoInputs.cache
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\obj\Debug\net7.0\LoanManager.Service.AssemblyInfo.cs
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\obj\Debug\net7.0\LoanManager.Service.csproj.CoreCompileInputs.cache
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\obj\Debug\net7.0\LoanManager.Service.csproj.CopyComplete
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\obj\Debug\net7.0\LoanManager.Service.dll
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\obj\Debug\net7.0\refint\LoanManager.Service.dll
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\obj\Debug\net7.0\LoanManager.Service.pdb
+C:\Users\datoc\source\repos\LoanManager\LoanManager.Service\obj\Debug\net7.0\ref\LoanManager.Service.dll

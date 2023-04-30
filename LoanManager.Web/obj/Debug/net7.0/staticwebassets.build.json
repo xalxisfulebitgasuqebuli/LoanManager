@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8WNU7tesxQg9cepEvKPMBPXrjHuBsUhwwO+cJ3Pn17k=",
+  "Source": "LoanManager.API",
+  "BasePath": "_content/LoanManager.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
